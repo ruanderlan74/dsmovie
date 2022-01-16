@@ -3,7 +3,7 @@
 ### Tecnologias utilizadas
 👉 Spring <br />
 👉 React <br />
-👉 Postgresql <br />https://github.com/ruanderlan74/dsmovie/blob/main/Form.PNG
+👉 Postgresql <br />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Interface da tela home:
